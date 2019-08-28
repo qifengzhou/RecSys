@@ -14,4 +14,4 @@ PyTorch and Caffee implementation (https://github.com/facebookresearch/dlrm)
 - **On the Dimensionality of Embeddings for Sparse Features and Data** (2019) Maxim Naumov [[pdf]](https://arxiv.org/pdf/1901.02103.pdf)
 
 ### Ads
-- **AdKDD 2019 https://www.adkdd.org/2019-papers-and-talks
+- **AdKDD 2019** https://www.adkdd.org/2019-papers-and-talks
